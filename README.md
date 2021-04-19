@@ -1,3 +1,3 @@
 # BasicsofBluePrismtool
 
-It describes an=bout the features and components of BluePrism tool.
+It describes about the features and components of BluePrism tool.
